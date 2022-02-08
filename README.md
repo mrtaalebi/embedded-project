@@ -1,0 +1,3 @@
+# embedded-project
+
+An IoT system to ensure your home security with web-based panel and more...
